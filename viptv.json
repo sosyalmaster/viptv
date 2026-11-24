@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/sosyalmaster/viptv/releases/latest/download/VIP-TV.apk",
+  "changelog": "• Yeni logo\n• Duyurular bölümü\n• Otomatik güncelleme",
+  "force": false,
+  "announcements": [
+    { "id": "1", "title": "VİP TV'ye hoş geldiniz!", "date": "25.11.2026", "text": "Sorun yaşarsanız bize yazın." }
+  ]
+}
