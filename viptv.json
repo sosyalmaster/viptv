@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4",
+  "versionCode": 7,
+  "versionName": "1.5",
   "apkUrl": "https://github.com/sosyalmaster/viptv/releases/latest/download/VIP-TV.apk",
-  "changelog": "• Yenilenen ana sayfa (tek ekrana sığar, saat ve tarih)\n• Canlı TV / Film / Dizi ekranları yeniden tasarlandı\n• Öne çıkan film/dizi bandı, kategori sayıları",
+  "changelog": "• Oynatıcıya geri ve küçült düğmeleri\n• Uygulamadan çıkınca küçük pencerede izlemeye devam (PiP)\n• Film ve dizilerde kaldığın yerden devam\n• Görüntü oranı: Sığdır / Doldur / Uzat",
   "force": false,
   "ads": [
     { "image": "", "text": "", "link": "" },
